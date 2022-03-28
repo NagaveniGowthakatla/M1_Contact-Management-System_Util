@@ -20,3 +20,4 @@ modules C lectures
 
 ## SDLC activity:-
 [![Build Linux](https://github.com/NagaveniGowthakatla/M1_Contact-Management-System_Util/actions/workflows/Build%20Linux.yml/badge.svg)](https://github.com/NagaveniGowthakatla/M1_Contact-Management-System_Util/actions/workflows/Build%20Linux.yml)
+[![Build Windows](https://github.com/NagaveniGowthakatla/M1_Contact-Management-System_Util/actions/workflows/Build%20Windows.yml/badge.svg)](https://github.com/NagaveniGowthakatla/M1_Contact-Management-System_Util/actions/workflows/Build%20Windows.yml)
