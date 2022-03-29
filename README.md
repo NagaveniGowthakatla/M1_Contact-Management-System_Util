@@ -28,6 +28,6 @@ modules C lectures
 [![Static Check](https://github.com/NagaveniGowthakatla/M1_Contact-Management-System_Util/actions/workflows/Static%20Check.yml/badge.svg)](https://github.com/NagaveniGowthakatla/M1_Contact-Management-System_Util/actions/workflows/Static%20Check.yml)
 [![Unit testing](https://github.com/NagaveniGowthakatla/M1_Contact-Management-System_Util/actions/workflows/Unit%20testing.yml/badge.svg)](https://github.com/NagaveniGowthakatla/M1_Contact-Management-System_Util/actions/workflows/Unit%20testing.yml)
 [![Valgrind](https://github.com/NagaveniGowthakatla/M1_Contact-Management-System_Util/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/NagaveniGowthakatla/M1_Contact-Management-System_Util/actions/workflows/Valgrind.yml)
-![codiga](https://api.codiga.io/project/32161/status/svg)
+![Code Grade](https://api.codiga.io/project/32161/status/svg)
 ![Code Quality Score](https://api.codiga.io/project/32161/score/svg)
 ![Code Inspector](https://user-images.githubusercontent.com/101544562/160539959-37101cbd-d037-41e7-bc2f-b95bc69d23fa.png)
