@@ -28,6 +28,10 @@
 * Records notes.
 * set remainters.
 * Use search and filter options.
+## SWOT ANALYSIS:-
+    If you understand your strengths and weaknesses as a manager, you can be a more self-aware leader and create a targeted strategy to develop and improve your skills. Strengths are the tasks you do easily and well. Focusing on your strengths allows you to use those skills to perform at a high level. Lead with your strengths to show your value to the company.
+
+                     Weaknesses are the activities and abilities that are less easy for you. By identifying your weaknesses, you can learn to compensate for them and take steps to improve them. You can make smart management decisions by delegating those tasks to other employees. How you balance and manage your strengths and weaknesses can determine your success as a leader.
 ## 4W'S AND 1'H:-
 ## WHO:-
 * This is about identifying people who may have direct or indirect involvment in causing or contributing to the issue.
