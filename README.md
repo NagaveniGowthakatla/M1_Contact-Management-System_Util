@@ -30,5 +30,5 @@ modules C lectures
 [![Valgrind](https://github.com/NagaveniGowthakatla/M1_Contact-Management-System_Util/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/NagaveniGowthakatla/M1_Contact-Management-System_Util/actions/workflows/Valgrind.yml)
 ![Code Grade](https://api.codiga.io/project/32161/status/svg)
 ![Code Quality Score](https://api.codiga.io/project/32161/score/svg)
-![code Quality]([![Codacy Badge](https://app.codacy.com/project/badge/Grade/5716bc51558c4488912ffcdf670c9b16)](https://www.codacy.com/gh/NagaveniGowthakatla/M1_Contact-Management-System_Util/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=NagaveniGowthakatla/M1_Contact-Management-System_Util&amp;utm_campaign=Badge_Grade))
+([![Codacy Badge](https://app.codacy.com/project/badge/Grade/5716bc51558c4488912ffcdf670c9b16)](https://www.codacy.com/gh/NagaveniGowthakatla/M1_Contact-Management-System_Util/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=NagaveniGowthakatla/M1_Contact-Management-System_Util&amp;utm_campaign=Badge_Grade)
 ![Code Inspector](https://user-images.githubusercontent.com/101544562/160539959-37101cbd-d037-41e7-bc2f-b95bc69d23fa.png)
