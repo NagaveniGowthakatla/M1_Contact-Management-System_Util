@@ -19,6 +19,7 @@ Youtube C programming
 modules C lectures
 
 ## SDLC activity:-
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/e2908a2d6dfb4831a7964ce3483dfb2f)](https://app.codacy.com/gh/NagaveniGowthakatla/M1_Contact-Management-System_Util?utm_source=github.com&utm_medium=referral&utm_content=NagaveniGowthakatla/M1_Contact-Management-System_Util&utm_campaign=Badge_Grade_Settings)
 [![Build Linux](https://github.com/NagaveniGowthakatla/M1_Contact-Management-System_Util/actions/workflows/Build%20Linux.yml/badge.svg)](https://github.com/NagaveniGowthakatla/M1_Contact-Management-System_Util/actions/workflows/Build%20Linux.yml)
 [![Build Windows](https://github.com/NagaveniGowthakatla/M1_Contact-Management-System_Util/actions/workflows/Build%20Windows.yml/badge.svg)](https://github.com/NagaveniGowthakatla/M1_Contact-Management-System_Util/actions/workflows/Build%20Windows.yml)
 [![CI](https://github.com/NagaveniGowthakatla/M1_Contact-Management-System_Util/actions/workflows/CI.yml/badge.svg)](https://github.com/NagaveniGowthakatla/M1_Contact-Management-System_Util/actions/workflows/CI.yml)
